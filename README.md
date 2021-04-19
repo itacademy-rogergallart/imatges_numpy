@@ -1,2 +1,5 @@
-# imatges_numpy
-Tasca 2-A (Sprint 3)
+Curs: ITAcademy Data Science
+
+Tasca: Imatges Numpy - Tasca 2-A (Sprint3)
+
+Alumne: Roger Gallart
